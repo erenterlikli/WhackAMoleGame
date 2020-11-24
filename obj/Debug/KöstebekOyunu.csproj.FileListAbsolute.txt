@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\KöstebekOyunu\bin\Debug\KöstebekOyunu.exe.config
+C:\Users\Eren\source\repos\KöstebekOyunu\bin\Debug\KöstebekOyunu.exe
+C:\Users\Eren\source\repos\KöstebekOyunu\bin\Debug\KöstebekOyunu.pdb
+C:\Users\Eren\source\repos\KöstebekOyunu\obj\Debug\KöstebekOyunu.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\KöstebekOyunu\obj\Debug\KöstebekOyunu.Form1.resources
+C:\Users\Eren\source\repos\KöstebekOyunu\obj\Debug\KöstebekOyunu.Properties.Resources.resources
+C:\Users\Eren\source\repos\KöstebekOyunu\obj\Debug\KöstebekOyunu.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\KöstebekOyunu\obj\Debug\KöstebekOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\KöstebekOyunu\obj\Debug\KöstebekOyunu.exe
+C:\Users\Eren\source\repos\KöstebekOyunu\obj\Debug\KöstebekOyunu.pdb
